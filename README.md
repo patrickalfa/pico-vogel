@@ -12,3 +12,5 @@ A classic time-trial, catch the pigeon to get more time to catch more pigeons.
     ←→: Turn the plane
     
 🎮 https://patrickalfa.itch.io/pico-vogel
+
+![](pico-vogel.gif)
